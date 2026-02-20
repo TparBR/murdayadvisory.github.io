@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="44" viewBox="0 0 220 44" fill="none">
-  <rect x="0" y="0" width="44" height="44" rx="12" fill="#1E2A44"/>
-  <path d="M12 28V16.5C12 14.6 13.6 13 15.5 13H28.5C30.4 13 32 14.6 32 16.5V28"
-        stroke="#E6EEF9" stroke-width="2.2" stroke-linecap="round"/>
-  <path d="M15.5 28V21.5" stroke="#E6EEF9" stroke-width="2.2" stroke-linecap="round"/>
-  <path d="M22 28V18.5" stroke="#E6EEF9" stroke-width="2.2" stroke-linecap="round"/>
-  <path d="M28.5 28V23.5" stroke="#E6EEF9" stroke-width="2.2" stroke-linecap="round"/>
-  <text x="58" y="28" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#E6EEF9" font-weight="700">Murday Advisory</text>
-</svg>
